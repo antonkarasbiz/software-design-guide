@@ -1,26 +1,16 @@
-### System Design Bytes for Enthusiasts
+# Software design guide
+
+Curated notes on scalability, reliability, consistency, and production architecture. This library sits beside the [antonkarasbiz](https://github.com/antonkarasbiz) full-stack, blockchain, and AI product work as a design reference — not as a personal brand or course dropbox.
 
 ![System Design Discussions](https://raw.githubusercontent.com/codersguild/System-Design/master/system-design.PNG)
 
-I complied and collected some of the articles as a part of doing **CS654A** course at **IIT Kanpur** for a fantastic course on **Advanced Software Architecture** taught by [*Prof.Dr.T.V.Prabbhakar*](https://www.iitk.ac.in/new/index.php/dr-tadinada-venkata-prabhakar).
+The collection aggregates public engineering writing on distributed systems, payments, messaging, and company architectures. Individual articles remain the work of their original authors. The index is maintained here for structured study and interview preparation.
 
-Modified from [Zach](https://github.com/checkcheckzz) system design repository. Added more links and topics to cover on both PS/DS & System Design Interviews. We will keep updating this posting from time to time. Some more [awesome resource](https://github.com/binhnguyennus/awesome-scalability)
+Related reading: [awesome-scalability](https://github.com/binhnguyennus/awesome-scalability)
 
-[![How to "think" (and design) like a Software Architect at Silicon Valley Code Camp 2019](https://img.youtube.com/vi/mCM6QVHD08c/0.jpg)](https://www.youtube.com/watch?v=mCM6QVHD08c)
+## Acknowledgements
 
-[![Visualising software architecture with the C4 model - Simon Brown, Agile on the Beach 2019](https://img.youtube.com/vi/x2-rSnhpw0g/0.jpg)](https://www.youtube.com/watch?v=x2-rSnhpw0g)
-
-## `SYSTEM DESIGN IS NOT JUST FOR INTERVIEWS, IT CAN BE HOW YOU MANAGE YOUR LIFE. GIVE IT A THOUGHT`
-
-## Disclaimer/Acknowledgements
-
-I didn't write the `articles` myself. I love expanding my understanding of `system design` complexities and thus read many books, research papers, and articles that enhance my knowledge. I take the opportunity to thank everyone who found this repository useful. I would like to thank all the authors and developers who wrote the articles aggregated in this repository.
-
-## More Content Comming !
-
-We are working to create good content to fulfil the needs of system-design noobs. Please feel free to share any resource or material at ```lahiri.devs@gmail.com```.
-
-- [How Slack Works](https://www.youtube.com/watch?v=WE9c9AZe-DY)
+This tree descends from public system-design compilations (including the Zach / checkcheckzz lineage and later course-oriented forks). Credits stay with those authors. Contact for this workspace is [antonkarasbiz](https://github.com/antonkarasbiz), not third-party course emails.
 
 ## SWEBOOK & PDFs
 
@@ -450,4 +440,4 @@ Use design patterns such that it can be reused in multiple applications.
 
 #### More Info
 
-Feel free to contact [Sumit Lahiri](mailto:lahiri.devs@gmail.com) 
+Maintained by [Anton Karas](https://github.com/antonkarasbiz). 
